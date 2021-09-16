@@ -16,3 +16,4 @@ mryuu4devが健康で文化的な生活を送るためのリポジトリです�
 
 ## リンク
 - [GitHub Projects で日常のタスク管理を行う](https://zenn.dev/t4t5u0/articles/f3aeb3895fd1fb)
+- [t4t5u0/human-life](https://github.com/t4t5u0/human-life)
