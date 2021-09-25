@@ -7,6 +7,7 @@ mryuu4devが健康で文化的な生活を送るためのリポジトリです�
 - [やること・やりたいこと](https://github.com/mryuu4dev/task-manager/projects/1)
 - [予定](https://github.com/mryuu4dev/task-manager/projects/5)
 - [ブックマーク](https://github.com/mryuu4dev/task-manager/projects/2)
+- [ひらめきメモ](https://github.com/mryuu4dev/task-manager/projects/6)
 
 ## Issue 
 - [チェックリスト テンプレート](https://github.com/mryuu4dev/task-manager/issues/new?assignees=mryuu4dev&labels=%E7%94%9F%E6%B4%BB&template=%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88_%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.md&title=2021%2FMM%2FDD+%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88)
